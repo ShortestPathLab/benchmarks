@@ -1,0 +1,10 @@
+- id: Nobes2023
+  type: article
+  author: Thomas K. Nobes & Daniel D. Harabor & Michael Wybrow & Stuart D.C. Walsh
+  title: "Voxel Benchmarks for 3D Pathfinding: Sandstone, Descent, and Industrial Plants"
+  journal: The 16th International Symposium on Combinatorial Search (SoCS 2023)
+  page: 56-64
+  volume: 16
+  date: 2023
+  pdf: Nobes2023
+

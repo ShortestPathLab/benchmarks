@@ -1,0 +1,30 @@
+---
+layout: default
+---
+{% include header.html %}
+
+
+	<article class="group">
+		<div class="page-container">
+
+			<div class="fullwidth">
+
+		<!-- syllabus header -->
+			<div class="page-header group">
+				<h1 class="page-title">{{ page.title }}</h1>
+				{% if page.subtitle %}
+				<h2 class="page-subtitle">{{ page.subtitle }}</h2>
+				{% endif %}
+			</div>
+
+			<div class="syllabus">
+
+			<!-- syllabus body -->
+				{{ content }}
+
+			</div> 
+		</div>
+
+		</div>
+
+	</article>

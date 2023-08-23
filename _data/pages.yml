@@ -1,0 +1,20 @@
+# Default pages for teaching site
+
+- title: About
+  url: /about/
+
+- title: 2D-Maps
+  url: /2d-benchmarks/
+
+- title: 3D-Maps
+  url: /3d-benchmarks/
+
+- title: MAPF
+  url: /mapf-benchmarks/
+
+- title: Publications
+  url: /publications/
+
+# - title: Links
+#   url: /links/
+
