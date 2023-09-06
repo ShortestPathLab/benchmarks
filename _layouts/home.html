@@ -12,10 +12,9 @@
 			<div class="profile">
 				<div class="profile-block">
 					{{ content }}
-   
                         {% for page in site.data.pages %}
-                            <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}"><button class='button syllabus'><font size="+2">{{ page.title }}</font></button>&nbsp;&nbsp;&nbsp;</a>
-                            {% endfor %}
+                        <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}"><button class='button syllabus'><font size="+2">{{ page.title }}</font></button>&nbsp;&nbsp;&nbsp;</a>
+                        {% endfor %}
 
 					{% include social.html %}
 				</div>

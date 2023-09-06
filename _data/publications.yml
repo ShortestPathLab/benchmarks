@@ -7,4 +7,15 @@
   volume: 16
   date: 2023
   pdf: Nobes2023
+  group: voxel
+
+
+- id: Shen2023
+  type: article
+  author: Bojie Shen & Zhe Chen & Muhammad Aamir Cheema & Daniel D. Harabor & Peter J. Stuckey
+  title: "Tracking Progress in Multi-Agent Path Finding"
+  journal: arXiv:2305.08446
+  date: 2023
+  pdf: Bojie2023
+  group: mapf
 
