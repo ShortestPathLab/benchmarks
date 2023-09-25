@@ -1,5 +1,5 @@
-url: https://github.com/ShortestPathLab
-baseurl: /shortest-path-lab-benchmarks
+url: https://ShortestPathLab.github.io
+baseurl: /benchmarks
 title: Pathfinding Benchmarks
 description:  # leave blank if you don't want to display a description
 
