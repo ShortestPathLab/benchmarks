@@ -322,6 +322,14 @@ figure.fullwidth table {
 .button.syllabus:hover {
   background: #5f1f19;
 }
+.button.benchmarks {
+  margin-top: 1rem;
+  color: #fffff8;
+  background: #426588 !important;
+}
+.button.benchmarks:hover {
+  background: #213243 !important;
+}
 .button.success {
   color: #FFF;
   background: #4DAF7C;

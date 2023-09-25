@@ -57,6 +57,14 @@
 			background:darken($theme-color, 20%);
 		}
 	}
+    &.benchmarks{
+		margin-top: 1rem;
+		color: $off-white;
+		background: $theme-color2;
+		&:hover{
+			background: darken($theme-color2, 20%);
+		}
+	}
 	&.success{
 		color:#FFF;
 		background:$success;

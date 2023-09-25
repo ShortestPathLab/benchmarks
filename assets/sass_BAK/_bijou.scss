@@ -39,6 +39,14 @@ $container-width: 1000px;
 			background:darken($theme-color, 20%);
 		}
 	}
+    &.benchmarks{
+		margin-top: 1rem;
+		color: $off-white;
+		background: $theme-color2 !important;
+		&:hover{
+			background: darken($theme-color2, 20%) !important;
+		}
+	}
 	&.success{
 		color:#FFF;
 		background:$success;
