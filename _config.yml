@@ -25,9 +25,6 @@ port: 4000
 
 theme: tufte-pandoc-jekyll
 
-gems:
-  - jekyll-pandoc
-
 markdown: Pandoc
 pandoc:
   extensions:
@@ -62,6 +59,8 @@ anchorjs_version: "3.2.2"
 
 plugins:
   - jekyll-spaceship
+  - jekyll-pandoc
+  - github-pages
 
 # Where things are
 jekyll-spaceship:

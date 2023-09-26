@@ -8,3 +8,4 @@ gem 'tufte-pandoc-jekyll'
 gem 'gemoji'
 gem "webrick", "~> 1.8"
 gem 'jekyll-scholar'
+gem 'github-pages'
