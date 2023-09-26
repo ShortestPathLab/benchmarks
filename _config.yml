@@ -23,7 +23,7 @@ author-short: SPL
 host: localhost
 port: 4000
 
-theme: tufte-pandoc-jekyll
+remote_theme: tufte-pandoc-jekyll
 
 markdown: Pandoc
 pandoc:
