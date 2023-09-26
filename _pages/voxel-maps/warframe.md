@@ -20,3 +20,5 @@ Digital Extremes, a games company in London, Ontario, Canada has made voxel data
 If you find these benchmarks useful for your research, please cite the following paper:
 
 @article{brewer2018voxels, title={Benchmarks for Pathfinding in 3D Voxel Space}, author={Daniel Brewer and Nathan R. Sturtevant}, journal={Symposium on Combinatorial Search (SoCS)}, year={2018} }
+
+<a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/voxel-maps/warframe/'><button class='button benchmarks'>Downloads</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

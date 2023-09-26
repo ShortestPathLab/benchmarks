@@ -1,7 +1,9 @@
 url: https://ShortestPathLab.github.io
 baseurl: /benchmarks
 title: Pathfinding Benchmarks
-description:  # leave blank if you don't want to display a description
+description: Here, you will find various single and multi-agent pathfinding benchmarks # leave blank if you don't want to display a description
+description_one: from a wide variety domains and problems in the literature.
+description_two: For clarity, each benchmark includes clear attribution and version control.
 
 last_updated: 23 August 2023 # leave blank if you don't want to display last updated
 
@@ -23,7 +25,7 @@ author-short: SPL
 host: localhost
 port: 4000
 
-remote_theme: tufte-pandoc-jekyll
+remote_theme: jez/tufte-pandoc-jekyll
 
 markdown: Pandoc
 pandoc:

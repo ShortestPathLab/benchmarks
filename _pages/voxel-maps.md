@@ -5,15 +5,17 @@ title: Voxel Maps
 permalink: /3d-benchmarks/voxel-maps
 ---
 
+<a>**Descriptions:**&nbsp;</a>
 <a href='{{ site.baseurl }}/3d-benchmarks/voxel-maps/descent/'><button class='button syllabus'>Descent</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='{{ site.baseurl }}/3d-benchmarks/voxel-maps/industrial-plants/'><button class='button syllabus'>Industrial Plants</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='{{ site.baseurl }}/3d-benchmarks/voxel-maps/sandstone/'><button class='button syllabus'>Sandstone</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='{{ site.baseurl }}/3d-benchmarks/voxel-maps/warframe/'><button class='button syllabus'>Warframe</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href='{{ site.baseurl }}/3d-benchmarks/voxel-maps/descent/'><button class='button benchmarks'>Descent</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='{{ site.baseurl }}/3d-benchmarks/voxel-maps/industrial-plants/'><button class='button benchmarks'>Industrial Plants</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='{{ site.baseurl }}/3d-benchmarks/voxel-maps/sandstone/'><button class='button benchmarks'>Sandstone</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='{{ site.baseurl }}/3d-benchmarks/voxel-maps/warframe/'><button type='button' class='benchmarks'>Warframe</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a>**Downloads:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/voxel-maps/descent/'><button class='button benchmarks'>Descent</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/voxel-maps/industrial-plants/'><button class='button benchmarks'>Industrial Plants</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/voxel-maps/sandstone/'><button class='button benchmarks'>Sandstone</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/voxel-maps/warframe/'><button class='button benchmarks'>Warframe</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 Here you can find a series of currently available voxel-world benchmarks for 3D pathfinding. A *voxel* is a unit size volume element, essentially the 3D equivalent to a unit cell in a 2D grid. One of these data sets, the **Warframe** benchmarks, is developed by [MovingAI](https://movingai.com/) and was the first to appear in the literature. The other three voxel benchmarks were constructed as part of our own work in order to help bridge-the-gap between the varied motivations of practitioners (drone navigation, pipe routing, video games) and the domains of available problems (aerial video game traversal).
@@ -63,7 +65,7 @@ For more information, and if you are using these benchmark problems, please cite
 
 ## Sandstone Benchmarks
 
-<<div class="fullwidth">
+<div class="fullwidth">
 
  **Num. of Maps** | **Instances per Map** | **Total Num. of Instances**  | **Avg. Map Size (Voxels)** | **Avg. Traversible Size (Voxels)**
 --|---|---|---|----
