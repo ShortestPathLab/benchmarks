@@ -12,7 +12,8 @@ permalink: /3d-benchmarks/voxel-maps/descent
  30 | 2,000 | 60,000 | 478M | 10M
 </div>
 
-<br>
+<a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/voxel-maps/descent/'><button class='button benchmarks'>Get the Benchmarks!</button></a>
+
 This benchmark is derived from in-game levels from Descent, a video game developed by Parallax Software and released by Interplay Productions in 1995. It is recognised as the earliest FPS to feature entirely true-3D graphics, and is now open source. Descent is well-suited for search as each level has been designed specifically for 3D maneuverability and traversal; featuring rooms and branching corridors.
 
 We adapt the 27 in-game levels and 3 secret levels into 30 voxel maps (one for each level) with 2,000 instances each, for a total of 60,000 problem instances. A *voxel* is a unit size volume element, essentially the 3D equivalent to a unit cell in a 2D grid. *Voxel* gridmaps have nice properties and high solution quality (i.e. small detours from the true path distance).
@@ -23,6 +24,12 @@ We use advanced methods of problem generation to select only a small, but compre
 
 For more information, and if you are using these benchmark problems, please cite the following paper to reference the benchmark sets:
 
-@article{nobes2023voxels, title={Voxel Benchmarks for 3D Pathfinding: Sandstone, Descent, and Industrial Plants}, author={Thomas K. Nobes and Daniel D. Harabor and Michael Wybrow and Stuart D.C. Walsh}, journal={The 16th International Symposium on Combinatorial Search (SoCS)}, volume={16}, number={1}, pages={}, year={2023}, url = {https://ojs.aaai.org/index.php/SOCS/article/view/27283 } }
+@article{nobes2023voxels,  
+    title={Voxel Benchmarks for 3D Pathfinding: Sandstone, Descent, and Industrial Plants},  
+    author={Thomas K. Nobes and Daniel D. Harabor and Michael Wybrow and Stuart D.C. Walsh},  
+    journal={The 16th International Symposium on Combinatorial Search (SoCS)},  
+    volume={16}, number={1}, pages={}, year={2023},  
+    url = {https://ojs.aaai.org/index.php/SOCS/article/view/27283 }  
+}
 
 <a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/voxel-maps/descent/'><button class='button benchmarks'>Downloads</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

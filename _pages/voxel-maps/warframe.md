@@ -12,13 +12,19 @@ permalink: /3d-benchmarks/voxel-maps/warframe
   44 | 10,000 | 440,000 | 159M | 158M
 </div>
 
-<br>
+<a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/voxel-maps/warframe/'><button class='button benchmarks'>Get the Benchmarks!</button></a>
+
 The benchmarks in this directory are due to Nathan Sturtevant and are mirrored from his repository at MovingAI.com(https://movingai.com/benchmarks/voxels.html). The ones available here are all Version 1 (ca. 2018).
 
 Digital Extremes, a games company in London, Ontario, Canada has made voxel data freely available from their game Warframe to start a new repository of 3D voxel grids. (Pixels are picture elements; voxels are volume elements).
 
 If you find these benchmarks useful for your research, please cite the following paper:
 
-@article{brewer2018voxels, title={Benchmarks for Pathfinding in 3D Voxel Space}, author={Daniel Brewer and Nathan R. Sturtevant}, journal={Symposium on Combinatorial Search (SoCS)}, year={2018} }
+@article{brewer2018voxels,  
+    title={Benchmarks for Pathfinding in 3D Voxel Space},  
+    author={Daniel Brewer and Nathan R. Sturtevant},  
+    journal={Symposium on Combinatorial Search (SoCS)},  
+    year={2018}  
+}
 
 <a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/voxel-maps/warframe/'><button class='button benchmarks'>Downloads</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
