@@ -5,13 +5,11 @@ title: Road Maps
 permalink: /2d-benchmarks/road-maps
 ---
 
-
-<a href='{{ site.baseurl }}/2d-benchmarks/road-maps/dimacs-9th/'><button class='button syllabus'>DIMACS</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='{{ site.baseurl }}/2d-benchmarks/road-maps/dimacs-9th/'><button class='button benchmarks'>Downloads</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <br>
 
 ## The 9th DIMACS Implementation Challenge - Shortest Paths
+
+<a href='https://www.diag.uniroma1.it/challenge9/'><button class='button syllabus'>DIMACS Homepage</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Road maps are a common benchmark for testing performance on road networks---created for the 9th DIMACS Challenge. These files are too big to mirror here, but they are available for download from the [competition homepage]('https://www.diag.uniroma1.it/challenge9/').
 
