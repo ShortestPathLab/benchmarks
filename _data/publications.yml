@@ -1,6 +1,6 @@
 - id: Nobes2023
   type: article
-  author: Thomas K. Nobes & Daniel D. Harabor & Michael Wybrow & Stuart D.C. Walsh
+  author: Thomas K. Nobes, Daniel D. Harabor, Michael Wybrow, Stuart D.C. Walsh
   title: "Voxel Benchmarks for 3D Pathfinding: Sandstone, Descent, and Industrial Plants"
   journal: The 16th International Symposium on Combinatorial Search (SoCS 2023)
   page: 56-64
@@ -12,10 +12,20 @@
 
 - id: Shen2023
   type: article
-  author: Bojie Shen & Zhe Chen & Muhammad Aamir Cheema & Daniel D. Harabor & Peter J. Stuckey
+  author: Bojie Shen, Zhe Chen, Muhammad Aamir Cheema, Daniel D. Harabor, Peter J. Stuckey
   title: "Tracking Progress in Multi-Agent Path Finding"
   journal: arXiv:2305.08446
   date: 2023
   pdf: Bojie2023
   group: mapf
 
+- id: Harabor2022
+  type: article
+  author: Daniel D. Harabor, Ryan Hechenberger, Thomas Jahn
+  title: "Benchmarks for Pathfinding Search: Iron Harvest"
+  journal: The 15th International Symposium on Combinatorial Search (SoCS 2022)
+  page: 218-222
+  volume: 15
+  date: 2022
+  pdf: Harabor2022
+  group: 2d
