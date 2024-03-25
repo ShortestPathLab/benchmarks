@@ -1,17 +1,18 @@
 url: https://benchmarks.pathfinding.ai/
 baseurl: /benchmarks
 title: Pathfinding Benchmarks
-description: Here, you will find various single and multi-agent pathfinding benchmarks # leave blank if you don't want to display a description
-description_one: from a wide variety domains and problems in the literature.
+description: Here, you will find single and multi-agent pathfinding benchmarks # leave blank if you don't want to display a description
+description_one: from a wide variety domains and problems in the literature.  # multiple escriptions used for newline control
 description_two: For clarity, each benchmark includes clear attribution and version control.
 
-last_updated: 23 August 2023 # leave blank if you don't want to display last updated
+last_updated: 26 March 2024 # leave blank if you don't want to display last updated
 
 author:
   name: Shortest Path Lab
   affiliation: Monash University
   city-state-zip: 'Wellington Rd, Clayton VIC 3800'
-  web: https://github.com/ShortestPathLab
+  web: https://pathfinding.ai/
+  # web: https://github.com/ShortestPathLab # may want to link to our github in the future
 
 author-short: SPL
 
