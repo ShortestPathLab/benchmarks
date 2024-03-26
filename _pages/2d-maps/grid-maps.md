@@ -19,7 +19,6 @@ permalink: /2d-benchmarks/grid-maps
 <a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/grid-maps/local/'><button class='button benchmarks'>Local</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/grid-maps/movingai/'><button class='button benchmarks'>MovingAI</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br>
 Here you can find a series of currently available grid-map benchmarks for 3D pathfinding. Grid maps are collections of unit square grids with uniform costs.
 Several of these data sets are developed by other labs, whereas others are produced and hosted here. These banchmarks come from a variety of synthetic and real domains.
 
