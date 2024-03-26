@@ -1,5 +1,5 @@
 url: https://benchmarks.pathfinding.ai/
-baseurl: /benchmarks
+# baseurl: /benchmarks
 title: Pathfinding Benchmarks
 description: Here, you will find single and multi-agent pathfinding benchmarks # leave blank if you don't want to display a description
 description_one: from a wide variety domains and problems in the literature.  # multiple escriptions used for newline control
