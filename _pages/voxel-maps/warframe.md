@@ -26,5 +26,3 @@ If you find these benchmarks useful for your research, please cite the following
     journal={Symposium on Combinatorial Search (SoCS)},  
     year={2018}  
 }
-
-<a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/voxel-maps/warframe/'><button class='button benchmarks'>Downloads</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -31,5 +31,3 @@ For more information, and if you are using these benchmark problems, please cite
     volume={16}, number={1}, pages={}, year={2023},  
     url = {https://ojs.aaai.org/index.php/SOCS/article/view/27283 }  
 }
-
-<a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/voxel-maps/sandstone/'><button class='button benchmarks'>Downloads</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
