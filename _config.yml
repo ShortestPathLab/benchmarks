@@ -28,6 +28,7 @@ port: 4000
 
 remote_theme: jez/tufte-pandoc-jekyll
 
+input: GFM
 markdown: Pandoc
 pandoc:
   extensions:

@@ -7,6 +7,7 @@ module Jekyll
     
     require "shellwords"
     require "kramdown"
+    require "kramdown-parser-gfm"
 
     def initialize(tag_name, text, tokens)
       super
@@ -20,7 +21,7 @@ module Jekyll
       converter = site.find_converter_instance(::Jekyll::Converters::Markdown)
 
       baseurl = context.registers[:site].config['baseurl']
-      label = Kramdown::Document.new(@text[1],{remove_span_html_tags:true}).to_html # render markdown in caption
+      label = Kramdown::Document.new(@text[1], {remove_span_html_tags:true, input: 'GFM'}).to_html # render markdown in caption
       label = converter.convert(label).gsub(/<\/?p[^>]*>/, "").chomp # remove <p> tags from render output
 
       if @text[0].start_with?('http://', 'https://','//')

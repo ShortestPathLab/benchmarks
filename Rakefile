@@ -7,6 +7,8 @@ require 'tmpdir'
 require 'jekyll'
 require 'jekyll-pandoc'
 require 'jekyll-scholar'
+require 'kramdown'
+require 'kramdown-parser-gfm'
 
 desc "Generate blog files"
 task :generate do
