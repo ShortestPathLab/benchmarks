@@ -8,7 +8,7 @@ permalink: /3d-benchmarks/voxel-maps/sandstone/
 <<div class="fullwidth">
 
  **Num. of Maps** | **Instances per Map** | **Total Num. of Instances**  | **Avg. Map Size (Voxels)** | **Avg. Traversible Size (Voxels)**
---|---|---|---|----
+---|---|---|---|----
  11 | 2,000 | 22,000 | 64M | 13M
 </div>
 

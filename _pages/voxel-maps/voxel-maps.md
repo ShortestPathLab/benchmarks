@@ -30,7 +30,7 @@ While we focus here only on *voxel* gridmaps due to their nice properties and hi
 <div class="fullwidth">
 
  **Num. of Maps** | **Instances per Map** | **Total Num. of Instances**  | **Avg. Map Size (Voxels)** | **Avg. Traversible Size (Voxels)**
---|---|---|---|----
+---|---|---|---|----
  30 | 2,000 | 60,000 | 478M | 10M
 </div>
 
@@ -58,7 +58,7 @@ For more information, and if you are using these benchmark problems, please cite
 <div class="fullwidth">
 
  **Num. of Maps** | **Instances per Map** | **Total Num. of Instances**  | **Avg. Map Size (Voxels)** | **Avg. Traversible Size (Voxels)**
---|---|---|---|----
+---|---|---|---|----
  5 | 2,000 | 10,000 | 227M | 208M
 </div>
 
@@ -84,7 +84,7 @@ For more information, and if you are using these benchmark problems, please cite
 <div class="fullwidth">
 
  **Num. of Maps** | **Instances per Map** | **Total Num. of Instances**  | **Avg. Map Size (Voxels)** | **Avg. Traversible Size (Voxels)**
---|---|---|---|----
+---|---|---|---|----
  11 | 2,000 | 22,000 | 64M | 13M
 </div>
 
@@ -112,7 +112,7 @@ For more information, and if you are using these benchmark problems, please cite
 <div class="fullwidth">
 
  **Num. of Maps** | **Instances per Map** | **Total Num. of Instances**  | **Avg. Map Size (Voxels)** | **Avg. Traversible Size (Voxels)**
---|---|---|---|----
+---|---|---|---|----
   44 | 10,000 | 440,000 | 159M | 158M
 </div>
 

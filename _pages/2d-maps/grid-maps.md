@@ -29,7 +29,7 @@ With this website, we aim to provide an overarching gateway for easy navigation 
 <div class="fullwidth">
 
  **Num. of Maps** | **Total Num. of Instances**
---|---
+---|---
  132 | 1,740,660
 </div>
 
@@ -43,7 +43,7 @@ With this website, we aim to provide an overarching gateway for easy navigation 
 <div class="fullwidth">
 
  **Maps** | **Num. of Maps** | **Total Num. of Instances**
---|---|---
+---|---|---
  Starcraft | 11 | 29,970
  Dragon Age: Origins | 27 | 44,414
  Dragon Age 2 | 57 | 54,360
@@ -62,7 +62,7 @@ With this website, we aim to provide an overarching gateway for easy navigation 
 <div class="fullwidth">
 
  **Num. of Maps** | **Instances per Map** | **Total Num. of Instances** 
---|---|---
+---|---|---
  35 | 2,000 | 70,000
 </div>
 

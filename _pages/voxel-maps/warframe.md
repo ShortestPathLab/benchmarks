@@ -8,7 +8,7 @@ permalink: /3d-benchmarks/voxel-maps/warframe/
 <<div class="fullwidth">
 
  **Num. of Maps** | **Instances per Map** | **Total Num. of Instances**  | **Avg. Map Size (Voxels)** | **Avg. Traversible Size (Voxels)**
---|---|---|---|----
+---|---|---|---|----
   44 | 10,000 | 440,000 | 159M | 158M
 </div>
 

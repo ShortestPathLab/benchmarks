@@ -15,7 +15,7 @@ With this website, we aim to provide an overarching gateway for easy navigation 
 <div class="fullwidth">
 
  **Map Type** | **Description**
---|--
+---|---
 <a href='{{ site.baseurl }}/3d-benchmarks/voxel-maps/'>**Voxel Maps**</a> | Collections of cube grids with uniform costs.
 
 </div>

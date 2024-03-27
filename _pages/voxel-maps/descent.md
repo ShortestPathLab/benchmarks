@@ -8,8 +8,9 @@ permalink: /3d-benchmarks/voxel-maps/descent/
 <div class="fullwidth">
 
  **Num. of Maps** | **Instances per Map** | **Total Num. of Instances**  | **Avg. Map Size (Voxels)** | **Avg. Traversible Size (Voxels)**
---|---|---|---|----
+---|---|---|---|---
  30 | 2,000 | 60,000 | 478M | 10M
+ 
 </div>
 
 <a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/voxel-maps/descent/'><button class='button benchmarks'>Get the Benchmarks!</button></a>

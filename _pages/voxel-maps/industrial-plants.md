@@ -8,8 +8,9 @@ permalink: /3d-benchmarks/voxel-maps/industrial-plants/
 <div class="fullwidth">
 
  **Num. of Maps** | **Instances per Map** | **Total Num. of Instances**  | **Avg. Map Size (Voxels)** | **Avg. Traversible Size (Voxels)**
---|---|---|---|----
+---|---|---|---|---
  5 | 2,000 | 10,000 | 227M | 208M
+ 
 </div>
 
 <a href='https://bitbucket.org/shortestpathlab/benchmarks/src/master/voxel-maps/industrial-plants/'><button class='button benchmarks'>Get the Benchmarks!</button></a>

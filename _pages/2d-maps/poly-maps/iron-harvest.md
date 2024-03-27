@@ -8,7 +8,7 @@ permalink: /2d-benchmarks/poly-maps/iron-harvest/
 <div class="fullwidth">
 
  **Num. of Maps** | **Instances per Map** | **Total Num. of Instances** 
---|---|---
+---|---|---
  35 | 2,000 | 70,000
 </div>
 
