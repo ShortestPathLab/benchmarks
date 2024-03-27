@@ -2,7 +2,7 @@
 date: 2023
 layout: syllabus
 title: Poly Maps
-permalink: /2d-benchmarks/poly-maps
+permalink: /2d-benchmarks/poly-maps/
 ---
 
 <a href='{{ site.baseurl }}/2d-benchmarks/poly-maps/iron-harvest/'><button class='button syllabus'>Iron Harvest</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -2,7 +2,7 @@
 date: 2023
 layout: syllabus
 title: Road Maps
-permalink: /2d-benchmarks/road-maps
+permalink: /2d-benchmarks/road-maps/
 ---
 
 <br>

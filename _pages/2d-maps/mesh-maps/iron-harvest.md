@@ -2,7 +2,7 @@
 date: 2023
 layout: syllabus
 title: The Iron Harvest Benchmarks
-permalink: /2d-benchmarks/mesh-maps/iron-harvest
+permalink: /2d-benchmarks/mesh-maps/iron-harvest/
 ---
 
 <div class="fullwidth">

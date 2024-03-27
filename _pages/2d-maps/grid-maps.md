@@ -2,7 +2,7 @@
 date: 2023
 layout: syllabus
 title: Grid Maps
-permalink: /2d-benchmarks/grid-maps
+permalink: /2d-benchmarks/grid-maps/
 ---
 
 <a>**Descriptions:**&nbsp;</a>

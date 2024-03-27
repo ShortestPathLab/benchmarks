@@ -2,7 +2,7 @@
 date: 2023
 layout: syllabus
 title: Mesh Maps
-permalink: /2d-benchmarks/mesh-maps
+permalink: /2d-benchmarks/mesh-maps/
 ---
 
 <a href='{{ site.baseurl }}/2d-benchmarks/mesh-maps/iron-harvest/'><button class='button syllabus'>Iron Harvest</button></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

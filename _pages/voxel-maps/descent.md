@@ -2,7 +2,7 @@
 date: 2023
 layout: syllabus
 title: Descent Benchmarks
-permalink: /3d-benchmarks/voxel-maps/descent
+permalink: /3d-benchmarks/voxel-maps/descent/
 ---
 
 <div class="fullwidth">

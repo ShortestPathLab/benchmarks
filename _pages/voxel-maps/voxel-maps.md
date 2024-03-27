@@ -2,7 +2,7 @@
 date: 2023
 layout: syllabus
 title: Voxel Maps
-permalink: /3d-benchmarks/voxel-maps
+permalink: /3d-benchmarks/voxel-maps/
 ---
 
 <a>**Descriptions:**&nbsp;</a>

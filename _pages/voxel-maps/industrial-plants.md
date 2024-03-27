@@ -2,7 +2,7 @@
 date: 2023
 layout: syllabus
 title: Industrial Plant Benchmarks
-permalink: /3d-benchmarks/voxel-maps/industrial-plants
+permalink: /3d-benchmarks/voxel-maps/industrial-plants/
 ---
 
 <div class="fullwidth">

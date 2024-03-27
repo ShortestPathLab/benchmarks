@@ -2,7 +2,7 @@
 date: 2023
 layout: syllabus
 title: Warframe Benchmarks
-permalink: /3d-benchmarks/voxel-maps/warframe
+permalink: /3d-benchmarks/voxel-maps/warframe/
 ---
 
 <<div class="fullwidth">

@@ -2,7 +2,7 @@
 date: 2023
 layout: syllabus
 title: Sandstone Benchmarks
-permalink: /3d-benchmarks/voxel-maps/sandstone
+permalink: /3d-benchmarks/voxel-maps/sandstone/
 ---
 
 <<div class="fullwidth">
