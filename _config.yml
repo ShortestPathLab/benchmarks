@@ -26,7 +26,7 @@ author-short: SPL
 host: localhost
 port: 4000
 
-# remote_theme: jez/tufte-pandoc-jekyll
+remote_theme: jez/tufte-pandoc-jekyll
 
 markdown: Pandoc
 pandoc:
