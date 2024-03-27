@@ -21,7 +21,7 @@ Here you can find a series of community-generated 2D pathfinding benchmarks that
 
 With this website, we aim to provide an overarching gateway for easy navigation between these various domains and to facilitate convenient attribution for each benchmark data set. We further aim to enable clear comparisons between various works in the literature on these benchmarks through clear version control and documentation.
 
-<div class="fullwidth">
+<figure class="fullwidth">
 
 **Map Type** | **Description** 
 ---|-----
@@ -30,4 +30,4 @@ With this website, we aim to provide an overarching gateway for easy navigation 
 <a href='{{ site.baseurl }}/2d-benchmarks/poly-maps/'>**Poly Maps**</a> | Collections of polygonal obstacles in the plane.
 <a href='{{ site.baseurl }}/2d-benchmarks/road-maps/'>**Road Maps**</a> | Collections of road network graphs.
 
-</div>
+</figure>
