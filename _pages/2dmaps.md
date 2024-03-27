@@ -25,6 +25,7 @@ With this website, we aim to provide an overarching gateway for easy navigation 
 
  **Map Type** | **Description**
 --|--
+
 <a href='{{ site.baseurl }}/2d-benchmarks/grid-maps/}'>**Grid Maps**</a> | Collections of square grids with uniform costs.
 <a href='{{ site.baseurl }}/2d-benchmarks/mesh-maps/}'>**Mesh Maps**</a> | Colelctions of navigation meshes with uniform costs.
 <a href='{{ site.baseurl }}/2d-benchmarks/poly-maps/}'>**Poly Maps**</a> | Collections of polygonal obstacles in the plane.
