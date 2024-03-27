@@ -24,6 +24,7 @@ With this website, we aim to provide an overarching gateway for easy navigation 
 <div class="fullwidth">
 
  **Map Type** | **Description**
+ 
 --|--
 
 <a href='{{ site.baseurl }}/2d-benchmarks/grid-maps/}'>**Grid Maps**</a> | Collections of square grids with uniform costs.
