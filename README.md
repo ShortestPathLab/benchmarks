@@ -1,8 +1,6 @@
-# Akademický
+# Shortest Path Lab Benchmarks Website
 
-## A [Jekyll](https://jekyllrb.com/) theme for academic sites. 
-
-Created by [Eric M. Fink](https://github.com/LuckyJimJD), based on [alshedivat/al-folio](https://github.com/alshedivat/al-folio), using elements from [clayh53/tufte-jekyll](https://github.com/clayh53/tufte-jekyll) (figures, and side/margin notes in the style of [Edward Tufte](https://www.edwardtufte.com/tufte/) and [andhart/bijou](https://github.com/andhart/bijou) (table and button styles)
+Created by [Thomas Nobes](https://thomasnobes.github.io/). Based on Akademický, a [Jekyll](https://jekyllrb.com/) theme for academic sites. Template created by [Eric M. Fink](https://github.com/LuckyJimJD), based on [alshedivat/al-folio](https://github.com/alshedivat/al-folio), using elements from [clayh53/tufte-jekyll](https://github.com/clayh53/tufte-jekyll) (figures, and side/margin notes in the style of [Edward Tufte](https://www.edwardtufte.com/tufte/) and [andhart/bijou](https://github.com/andhart/bijou) (table and button styles))
 
 ### Typography 
 
@@ -14,12 +12,3 @@ Created by [Eric M. Fink](https://github.com/LuckyJimJD), based on [alshedivat/a
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/LuckyJimJD/akademicky/blob/master/LICENSE)
 
-### Demos 
-
-#### Personal site with pages for publications and courses taught
-
-[![demo 1](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://www.emfink.net/ElonLaw/)
-
-#### Course site with pages for syllabus, course materials, and links to external resources
-
-[![demo 2](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://www.emfink.net/CivilProcedure/)
