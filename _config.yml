@@ -41,7 +41,15 @@ permalink: /:categories/:year/:month/:day/:title/
 timezone: Australia/Melbourne
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 include: ['_pages']
-exclude: ['Gemfile']
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - any_additional_item
 keep_files: [.admin]
 post:
   template: _post.txt
